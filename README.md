@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/Hand%20Wave.gif" width="50"> Hey there! I'm Alexander :smile:
+# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/Hand%20Wave.gif" width="50"> Hey there! I'm Alexander :smiley: 
 <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/gif_image.gif">
 
 ---
@@ -8,7 +8,8 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ---
 
-About me:
+
+About me :man_technologist:
 
 - I'm 19 years old at the moment;
 
