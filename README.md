@@ -42,6 +42,6 @@ About me :man_technologist:
 
 Connect with Me :hand:
 <p align="center">
-<a href="https://vk.com/bionqine"><img src="https://img.shields.io/badge/-vk.com-2787F5?style=flat&logo=vk&logoColor=white"/></a>
+<a href="https://vk.com/bionqine"><img src="https://img.shields.io/badge/-vk-2787F5?style=flat&logo=vk&logoColor=white"/></a>
 <a href="https://bionqine@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <p\>
