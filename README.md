@@ -8,7 +8,6 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ---
 
-
 About me :man_technologist:
 
 - I'm 19 years old at the moment;
@@ -21,11 +20,17 @@ About me :man_technologist:
 
 - My little dream is to be in a team of the same passionate people.
 
+---
+
 ## My skills:
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
+![Java](https://img.shields.io/badge/-Java-232531?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-232531?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-232531?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-232531?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-232531?style=flat&logo=markdown)\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-232531?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
+![mySQL](https://img.shields.io/badge/-SQL-232531?style=flat&logo=mysql&logoColor=e97100)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-232531?style=flat&logo=Unity&logoColor=000000)&nbsp;
+
+---
