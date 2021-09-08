@@ -24,13 +24,24 @@ About me :man_technologist:
 
 ## My skills:
 
-![Java](https://img.shields.io/badge/-Java-232531?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+### Hard skills
+
 ![C#](https://img.shields.io/badge/-C%23-232531?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-232531?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-232531?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-232531?style=flat&logo=markdown)\
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-232531?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
-![mySQL](https://img.shields.io/badge/-SQL-232531?style=flat&logo=mysql&logoColor=e97100)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-232531?style=flat&logo=Unity&logoColor=000000)&nbsp;
 
+### Soft skills
+
+![Java](https://img.shields.io/badge/-Java-232531?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![mySQL](https://img.shields.io/badge/-SQL-232531?style=flat&logo=mysql&logoColor=e97100)&nbsp;
+
 ---
+
+Connect with Me :hand:
+<p align="center">
+<a href="https://vk.com/bionqine"><img src="https://img.shields.io/badge/-vk.com-2787F5?style=flat&logo=vk&logoColor=white"/></a>
+<a href="https://bionqine@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<p\>
