@@ -26,17 +26,17 @@ About me :man_technologist:
 
 ### Hard skills
 
-![C#](https://img.shields.io/badge/-C%23-666666?style=flat&logo=c-sharp&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-666666?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-666666?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-666666?style=flat&logo=markdown)\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-666666?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-666666?style=flat&logo=Unity&logoColor=000000)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0F1F38?style=flat&logo=c-sharp&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0F1F38?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0F1F38?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0F1F38?style=flat&logo=markdown)\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0F1F38?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-0F1F38?style=flat&logo=Unity&logoColor=000000)&nbsp;
 
 ### Soft skills
 
-![Java](https://img.shields.io/badge/-Java-666666?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![mySQL](https://img.shields.io/badge/-SQL-666666?style=flat&logo=mysql&logoColor=e97100)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0F1F38?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![mySQL](https://img.shields.io/badge/-SQL-0F1F38?style=flat&logo=mysql&logoColor=e97100)&nbsp;
 
 ---
 
