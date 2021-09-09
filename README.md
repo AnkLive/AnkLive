@@ -26,7 +26,7 @@ About me :man_technologist:
 
 ### Hard skills
 
-<code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
+<code><img height="35" alt="Docker" title="Docker" src="https://github.com/AnkLive/AnkLive/blob/main/assets/Logo-csharp.png"></code>
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
 ![C#](https://img.shields.io/badge/-C%23-0F1F38?style=flat&logo=c-sharp&logoColor=00599C)&nbsp;
