@@ -28,6 +28,8 @@ About me :man_technologist:
 
 <code><img height="35" alt="Docker" title="Docker" src="https://github.com/AnkLive/AnkLive/blob/main/assets/Logo-csharp.png"></code>
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="35" alt="Git" title="Git" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
+<code><img height="35" alt="Git" title="Git" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
 
 ![C#](https://img.shields.io/badge/-C%23-0F1F38?style=flat&logo=c-sharp&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0F1F38?style=flat&logo=git)&nbsp;
