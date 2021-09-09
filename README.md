@@ -8,7 +8,7 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ---
 
-About me :man_technologist:
+### About me :man_technologist:
 
 - I'm 19 years old at the moment;
 
@@ -26,22 +26,18 @@ About me :man_technologist:
 
 ### Hard skills
 
-<code><img height="35" alt="Docker" title="Docker" src="https://github.com/AnkLive/AnkLive/blob/main/assets/Logo-csharp.png"></code>
+<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/AnkLive/AnkLive/blob/main/assets/Logo-csharp.png"></code>
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="35" alt="Git" title="Git" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
-<code><img height="35" alt="Git" title="Git" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
+<code><img height="35" alt="GitHub" title="GitHub" src="https://github.com/AnkLive/AnkLive/blob/main/assets/GitHub-Mark-120px-plus.png"></code>
+<code><img height="35" alt="Markdown" title="Markdown" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
+<code><img height="35" alt="Unity" title="Unity" src="https://github.com/AnkLive/AnkLive/blob/main/assets/kisspng-unity-technologies-3d-computer-graphics-shader-pro-3d-png-5b3c9e1aeeab99.3002076515306992909776.png"></code>
 
-![C#](https://img.shields.io/badge/-C%23-0F1F38?style=flat&logo=c-sharp&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0F1F38?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0F1F38?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0F1F38?style=flat&logo=markdown)\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0F1F38?style=flat&logo=visual-studio-code&logoColor=5c00ad)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-0F1F38?style=flat&logo=Unity&logoColor=000000)&nbsp;
+<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58482afbcef1014c0b5e4a21.png"></code>
 
 ### Soft skills
 
-![Java](https://img.shields.io/badge/-Java-0F1F38?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![mySQL](https://img.shields.io/badge/-SQL-0F1F38?style=flat&logo=mysql&logoColor=e97100)&nbsp;
+<code><img height="35" alt="Java" title="Java" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58480979cef1014c0b5e4901.png"></code>
+<code><img height="35" alt="mySQL" title="mySQL" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58481057cef1014c0b5e4951.png"></code>
 
 ---
 
