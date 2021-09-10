@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/Hand%20Wave.gif" width="50"> Hey there! I'm Alexander :smiley: 
+# <img src="https://github.com/AnkLive/AnkLive/blob/main/hand%20wave.png" width="50"> Hey there! I'm Alexander :smiley: 
 <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/gif_image.gif">
 
 ---
@@ -26,18 +26,17 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ### Hard skills
 
-<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/AnkLive/AnkLive/blob/main/assets/Logo-csharp.png"></code>
+<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/AnkLive/AnkLive/blob/main/assets/CSharp.png"></code>
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="35" alt="GitHub" title="GitHub" src="https://github.com/AnkLive/AnkLive/blob/main/assets/GitHub-Mark-120px-plus.png"></code>
-<code><img height="35" alt="Markdown" title="Markdown" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown-3627132-3029540.png"></code>
-<code><img height="35" alt="Unity" title="Unity" src="https://github.com/AnkLive/AnkLive/blob/main/assets/kisspng-unity-technologies-3d-computer-graphics-shader-pro-3d-png-5b3c9e1aeeab99.3002076515306992909776.png"></code>
-
-<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58482afbcef1014c0b5e4a21.png"></code>
+<code><img height="35" alt="GitHub" title="GitHub" src="https://github.com/AnkLive/AnkLive/blob/main/assets/github.png"></code>
+<code><img height="35" alt="Markdown" title="Markdown" src="https://github.com/AnkLive/AnkLive/blob/main/assets/markdown.png"></code>
+<code><img height="35" alt="Unity" title="Unity" src="https://github.com/AnkLive/AnkLive/blob/main/assets/unity.png"></code>
+<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/AnkLive/AnkLive/blob/main/assets/vsCode.png"></code>
 
 ### Soft skills
 
-<code><img height="35" alt="Java" title="Java" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58480979cef1014c0b5e4901.png"></code>
-<code><img height="35" alt="mySQL" title="mySQL" src="https://github.com/AnkLive/AnkLive/blob/main/assets/58481057cef1014c0b5e4951.png"></code>
+<code><img height="35" alt="Java" title="Java" src="https://github.com/AnkLive/AnkLive/blob/main/assets/java.png"></code>
+<code><img height="35" alt="mySQL" title="mySQL" src="https://github.com/AnkLive/AnkLive/blob/main/assets/mySQL.png"></code>
 
 ---
 
