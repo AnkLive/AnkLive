@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/AnkLive/AnkLive/blob/main/hand%20wave.png" width="50"> Hey there! I'm Alexander :smiley: 
+# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/handWave.png" width="50"> Hey there! I'm Alexander :smiley: 
 <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/gif_image.gif">
 
 ---
