@@ -2,11 +2,7 @@
 # <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/handWave.png" width="50"> Hey there! I'm Alexander :smiley: 
 <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/gif_image.gif">
 
----
-
 I am a beginner programmer specializing in game development. For game development I use the Unity game development platform as well as the C # programming language.
-
----
 
 ## About me :man_technologist:
 
@@ -19,8 +15,6 @@ I am a beginner programmer specializing in game development. For game developmen
 - I am always open to communication and feel great in a team;
 
 - My little dream is to be in a team of the same passionate people.
-
----
 
 ## My skills:
 
@@ -37,8 +31,6 @@ I am a beginner programmer specializing in game development. For game developmen
 
 <code><img height="35" alt="Java" title="Java" src="https://github.com/AnkLive/AnkLive/blob/main/assets/java.png"></code>
 <code><img height="35" alt="mySQL" title="mySQL" src="https://github.com/AnkLive/AnkLive/blob/main/assets/mySQL.png"></code>
-
----
 
 ## Connect with Me :hand:
 <p align="center">
