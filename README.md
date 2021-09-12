@@ -8,7 +8,7 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ---
 
-### About me :man_technologist:
+## About me :man_technologist:
 
 - I'm 19 years old at the moment;
 
@@ -40,7 +40,7 @@ I am a beginner programmer specializing in game development. For game developmen
 
 ---
 
-Connect with Me :hand:
+## Connect with Me :hand:
 <p align="center">
 <a href="https://vk.com/bionqine"><img src="https://img.shields.io/badge/-vk-2787F5?style=flat&logo=vk&logoColor=white"/></a>
 <a href="https://bionqine@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
