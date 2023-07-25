@@ -17,4 +17,5 @@
 <a href="https://bionqine.job@gmail.com"><img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/bionqine"><img src="https://img.shields.io/badge/-telegram-52a2eb?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://spb.hh.ru/resume/4296bfd5ff0c2bbe3b0039ed1f525751704632"><img src="https://img.shields.io/badge/-hh.ru-e1011c?style=flat&logo=hh.ru&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/bionqine"><img src="https://img.shields.io/badge/-steam-00adee?style=flat&logo=steam&logoColor=white"/></a>
 <p\>
